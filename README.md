@@ -10,19 +10,22 @@ Bienveni@s!
     * (seleccionar un username decente y su correo Gmail personal). 
 - [**Llenar esta encuesta con la información de su username y correo**](https://forms.gle/mSGYHZ74iQYoaStV6)
 - [Instalar Git](https://happygitwithr.com/install-git.html#install-git) y [GitHub](https://www.github.com): 
+- Traer su computador cargado :electric_plug:
   
 ## En esta clase veremos:
 1. Revisión de los contenidos del curso [syllabus](Syllabus_SpatialAnalytics_UAI_LopezE.pdf)
 2. Introducción a Spatial Analytics y Business Location Decisions
 3. Introducción a `R` y `R-Studio`
-    - Playground-Mode en R-Studio Cloud
+    - [Playground-Mode en R-Studio Cloud](https://rstudio.cloud/project/815411) :cloud:
     - Syntaxis y programación en `R`
 4. Introducción a `Version Control` 
     * [Vincular R-Studio con su distribución de Git](https://happygitwithr.com/rstudio-git-github.html )
   
 
  
-#### Tarea_01:
+#### Tarea_01: Mirar Repositorio Tarea 1
+
+- Instrucciones de cómo mandar las tareas
 
  
  
