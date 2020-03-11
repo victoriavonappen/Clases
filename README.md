@@ -1,7 +1,7 @@
 # Repositorio del Curso: Spatial Analytics and Code Automation for Business Location Decisions
 ### Magister en Business Analytics
 #### Universidad Adolfo Ibáñez
-##### Profesor: [Esteban López Ochoa](https://estebanlp.github.io/mywebsite/index.html)
+##### Profesor: :bowtie: [Esteban López Ochoa](https://estebanlp.github.io/mywebsite/index.html)
 
 Bienvenid@s!
 
@@ -10,5 +10,4 @@ Bienvenid@s!
 
 - Las tareas se encuentran en repositorios individuales que usted debe clonar para resolver en general de manera individual. Siga las instrucciones detalladas de cómo mandar una tarea.
 
-
-
+- Listos para lanzarse a la piscina? :swimmer:
