@@ -27,6 +27,7 @@ Bienveni@s!
 
 - [Instrucciones de cómo mandar las tareas](Instrucciones_de_como_hacer_las_tareas.pdf)
 - **Link de la tarea**: [https://classroom.github.com/a/p5InXgOp](https://classroom.github.com/a/p5InXgOp)
+- Fecha de entrega: Lunes 23 de Marzo @ 5pm
 
  
  
