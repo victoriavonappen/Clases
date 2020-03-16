@@ -23,9 +23,10 @@ Bienveni@s!
   
 
  
-#### Tarea_01: Mirar Repositorio Tarea01
+#### Tarea_01: Reconociendo R, línea por línea
 
-- [Instrucciones de cómo mandar las tareas](../Instrucciones de cómo hacer las tareas.pdf)
+- [Instrucciones de cómo mandar las tareas](Instrucciones_de_como_hacer_las_tareas.pdf)
+- **Link de la tarea**: [https://classroom.github.com/a/p5InXgOp](https://classroom.github.com/a/p5InXgOp)
 
  
  
