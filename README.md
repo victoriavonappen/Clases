@@ -9,7 +9,7 @@ Bienvenid@s!
     * Otra información general del curso está en [Web Cursos](https://webcursos.uai.cl) 
     * [Syllabus del curso](Syllabus_SpatialAnalytics_UAI_LopezE.pdf)
 
-- Las tareas se encuentran en repositorios privados individuales que usted debe clonar para resolver en general de manera individual. Siga las [instrucciones detalladas de cómo mandar una tarea.](./Instrucciones de cómo hacer las tareas.pdf)
+- Las tareas se encuentran en repositorios privados individuales que usted debe clonar para resolver en general de manera individual. Siga las [instrucciones detalladas de cómo mandar una tarea](Instrucciones de cómo hacer las tareas.pdf)
   * Está permitido que se junten/conversen/intercambien ideas sobre las tareas, pero deben enviar las tareas de forma individual. 
 
 - Listos para lanzarse a la piscina? :swimmer:
