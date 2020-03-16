@@ -9,7 +9,7 @@ Bienveni@s!
 - [Crear una cuenta de github](https://happygitwithr.com/github-acct.html#github-acct) :octocat:
     * (seleccionar un username decente y su correo Gmail personal). 
 - [**Llenar esta encuesta con la información de su username y correo**](https://forms.gle/mSGYHZ74iQYoaStV6)
-- [Instalar Git](https://happygitwithr.com/install-git.html#install-git) y [GitHub](https://www.github.com): 
+- [Instalar Git](https://happygitwithr.com/install-git.html#install-git) y también [GitHub](https://www.github.com) 
 - Traer su computador cargado :electric_plug:
   
 ## En esta clase veremos:
@@ -23,9 +23,9 @@ Bienveni@s!
   
 
  
-#### Tarea_01: Mirar Repositorio Tarea 1
+#### Tarea_01: Mirar Repositorio Tarea01
 
-- Instrucciones de cómo mandar las tareas
+- [Instrucciones de cómo mandar las tareas](../Instrucciones de cómo hacer las tareas.pdf)
 
  
  
