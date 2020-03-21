@@ -7,7 +7,7 @@ Class 02: Data Management
   * Git y GitHub :grin: :ok_hand:
   * Zoom y TeamViewer :muscle:
   * Si aún no lo logra :see_no_evil: (asumiendo que ha tratado :neutral_face:), enviarme un correo describiendo sus problemas a la brevedad!! :scream:.
-- Usted debería haber hecho la mayoría de la tarea y entendido en almenos un 60% la sintaxis de R y el flujo de programación (Script > Ctrl + Enter > Pasa a la cosola que procesa el comando > Se crean objetos > Se trabajan con los objetos)
+- Usted debería haber hecho la mayoría de la tarea y entendido en al menos un 60% la sintaxis de `R` y el flujo de programación (`Script` > `Ctrl + Enter` > `Pasa a la consola que procesa el comando` > `Se crean objetos `> `Se trabajan con los objetos`)
 - Usted debería haber logrado mandar la tarea haciendo `commits` y `Push` desde RStudio o GitHub Desktop.
   * :tv: **Ver video antes de la clase** [video](https://youtu.be/w3jLJU7DT5E)
 
