@@ -14,7 +14,7 @@ Class 02: Data Management
 ## En esta clase veremos:
 1. Repaso de la Sintaxis de `R`
 2. Repaso de los tipos de objetos y su manipulación
-  * Para ver su comparación con python ver [link](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
+    * Para ver su comparación con python ver [link](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
 3. Introducción a la manipulación de Datos
 4. Repaso del Flujo de Trabajo en  `Git` y `RStudio` 
     * [Vincular R-Studio con su distribución de Git](https://happygitwithr.com/rstudio-git-github.html )
