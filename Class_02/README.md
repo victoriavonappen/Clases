@@ -3,9 +3,10 @@ Class 02: Data Management
 
 # Pre-requisitos para antes de la clase:
 - Usted ya debería tener instalado
-  * R y RStudio
-  * Git y GitHub
-  * Zoom y TeamViewer
+  * R y RStudio :wink:
+  * Git y GitHub :grin: :ok_hand:
+  * Zoom y TeamViewer :muscle:
+  * Si aún no lo logra :see_no_evil: (asumiendo que ha tratado :neutral_face:), enviarme un correo describiendo sus problemas a la brevedad!! :scream:.
 - Usted debería haber hecho la mayoría de la tarea y entendido en almenos un 60% la sintaxis de R y el flujo de programación (Script > Ctrl + Enter > Pasa a la cosola que procesa el comando > Se crean objetos > Se trabajan con los objetos)
 - Usted debería haber logrado mandar la tarea haciendo `commits` y `Push` desde RStudio o GitHub Desktop.
   * :tv: **Ver video antes de la clase** [video](https://youtu.be/w3jLJU7DT5E)
@@ -23,7 +24,7 @@ Class 02: Data Management
 #### Tarea_02: Manipulación, limpieza y Descripción de una base de datos
 
 - [Instrucciones de cómo mandar las tareas](Instrucciones_de_como_hacer_las_tareas.pdf)
-- **Link de la tarea**: 
+- **Link de la tarea**: `en desarrollo`
 - Fecha de entrega: Lunes 30 de Marzo @ 5pm
 
  
